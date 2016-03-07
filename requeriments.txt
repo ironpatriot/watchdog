@@ -1,0 +1,6 @@
+beautifulsoup4==4.4.1
+IPy==0.83
+requests==2.9.1
+scapy==2.3.2
+terminaltables==2.1.0
+wheel==0.29.0
